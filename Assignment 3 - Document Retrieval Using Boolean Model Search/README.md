@@ -1,0 +1,2 @@
+# Assignment 3: Document Retrieval Using Boolean Model Search
+In this assignment, we were asked to create a simple search engine using Lucene library. We need to preprocess our data by stem it first. To do the stemming part, I refer to the algorithm that is used [here](https://github.com/apache/lucene-solr/blob/master/lucene/analysis/common/src/java/org/apache/lucene/analysis/id/IndonesianStemmer.java).

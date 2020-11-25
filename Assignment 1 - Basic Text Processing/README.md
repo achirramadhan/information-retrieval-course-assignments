@@ -1,0 +1,2 @@
+# Assignment 1: Basic Text Processing
+In this assignment, we were asked to do basic text processing, such as counting the number of unique words, unique sentences, token, and basic naive idea on how to identify date and place in text. We were also asked to analyze whether the words distribution follows the zipf distribution.

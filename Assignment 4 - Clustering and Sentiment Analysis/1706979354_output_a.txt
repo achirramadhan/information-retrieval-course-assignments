@@ -1,0 +1,613 @@
+no_cluster	no_urut	tweet_id	tweet_text
+1	1	633655760300322816	rupiah semakin lemah mentri vs mentri dan wapres bikin gaduh ayo kerja tanpa sedia lapangan kerja nasibmu 70th indonesiaku 
+1	2	635364226618429441	masyarakat tentu berharap situasi ekonomi dan lemahnya rupiah segera terangkat setelah wajah baru kabinet ini bekerja 
+1	3	635760868504895488	terharu bgmn pak jokowi bersusah payah dan bekerja keras memikirkan sebab dari lemahnya nilai rupiah dan menjelaskannya ke masyarakat 
+1	4	635793609644634114	 jokowi maaf ya jokowi pertumbuhan ekonomi lambat dan rupiah lemah jgn ajak kita sama2 utk menghadapinya itu kerjaanmu dan menteri ekonomimu
+1	5	636043729392898048	dengan melemahnya rupiah mala dpr ramai kasur minim kerja dan minim legislasi fadlizon fadjroel jokowi
+1	6	636168471366139904	masih soal pelemahan rupiah artikel yg keren dollar orang gila serta kabinet kerja dan doa 
+1	7	636342318920929280	 pkstetapbekerja surat terbuka politisi pks untuk presiden jokowi atas melemahnya rupiah pkstetapmelayani
+1	8	636342321957568512	 pkstetapbekerja surat terbuka politisi pks untuk presiden jokowi atas melemahnya rupiah pkstetapmelayani
+1	9	636508159939481600	dollar orang gila serta kabinet kerja dan doa saat rupiah kembali melemah dan menyentuh angka 14 000 perdollar 
+1	10	636570553185206272	rupiah makin melemah segerelah bertindak dgn kerja nyata jgn menyuguhkan pencitraan trs dan cengengesanmu jokowi
+1	11	636735771781693440	kamu kamu ini bikin menderita rupiah lemah harga harga pada naik dan cari kerja susah pak jk jokowi
+1	12	637655308937076736	kritik tajam dan cibiran terlontar ke arah presiden jokowi dalam menghadapi persoalan ekonomi yg memburuk dan pelemahan nilai tukar rupiah 
+1	13	637837414732402688	ayo jokowers kumpulkan koin utk jokowi kali aja bisa mbantu kuatkan rupiah ayo kerja kerja kerja kerja 
+1	14	637923097887117313	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	15	637923101108342784	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	16	637923101854969856	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	17	637923102064685056	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	18	637923102739988480	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	19	637923103222317056	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	20	637923104342151169	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	21	637923105885712384	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	22	637923108154814464	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	23	637923111770288128	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	24	637923112772763648	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	25	637923115238948864	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	26	637923148046860294	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	27	637923181668474880	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	28	637923198722400256	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	29	637923215604477952	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	30	637923350644297728	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	31	637923766102720512	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	32	637923772968796160	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	33	637923777364410368	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	34	637923780946300928	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh saveindonesia
+1	35	637923781583892480	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	36	637923782250774528	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	37	637923784461185024	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	38	637923785526476801	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	39	637923787371999232	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	40	637923787783081985	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	41	637923788940689408	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	42	637923790089883648	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	43	637923791243341824	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	44	637923794158358528	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	45	637923795068547072	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	46	637923796511404032	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	47	637923797249560576	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	48	637923798533074944	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	49	637923802312118272	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	50	637923811510235137	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	51	637923812034514944	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	52	637923840073400320	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	53	637924512592347136	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	54	637924513028550657	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	55	637924524281888770	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	56	637924529466032128	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	57	637924534339813376	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	58	637924543261077504	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	59	637924555256786944	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	60	637924570649919488	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	61	637924586214977537	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	62	637924600920207360	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	63	637924614425829376	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	64	637924628459970560	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	65	637924641814634496	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	66	637924749264359425	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	67	637925177418842112	 bcberita relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh carane piye 
+1	68	637925406717247489	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	69	637926032536764416	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	70	637926485836238848	kerja an apaan ini looohh relawan jokowi dan seknas pdip didesak kumpulkan uang utk memperkuat rupiah aduh 
+1	71	637927527172849664	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	72	637927534428950529	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	73	637928704547516416	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	74	637928724319440896	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	75	637928739532201984	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	76	637928749728595968	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	77	637928759492898817	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh tags jokowipdiprelaw 
+1	78	637928772029693955	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	79	637928781928230912	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	80	637928790782439424	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	81	637928801704411136	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	82	637928813788139520	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	83	637928823841910785	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	84	637928834461888512	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	85	637928843848740864	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	86	637928855353688064	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	87	637928864577032192	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	88	637928876404936704	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	89	637928885586259968	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	90	637928895325450240	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh tags jokowipdiprelawan 
+1	91	637928904599048193	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh tags jokowipdiprelawan 
+1	92	637928913218310144	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	93	637928922798125056	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	94	637928932663128064	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh tags jokowipdiprelawan 
+1	95	637928942595280896	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	96	637928952896471041	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	97	637928961188564992	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	98	637928981648445440	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	99	637928997792317440	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	100	637929007544037376	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	101	637929018021552128	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	102	637929028976967681	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	103	637929039542423552	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh konfrontasi
+1	104	637929051311575040	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	105	637929060450983936	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	106	637929073457565696	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	107	637929086317277184	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	108	637929097985847296	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	109	637929109352398848	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	110	637929120920285184	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	111	637929130869153792	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	112	637929141728182273	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	113	637929154772467712	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	114	637929173281931264	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	115	637929185701302272	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	116	637929199307636736	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	117	637929209285861376	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	118	637929219817799680	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	119	637929231687675904	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	120	637929242605391872	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	121	637929251480604672	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	122	637929261295251456	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	123	637929266491985920	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	124	637929268039716864	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	125	637929272368320512	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	126	637929273337098241	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	127	637929281675378688	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	128	637929292253429761	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	129	637929300839141376	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	130	637929309286481920	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	131	637929318165843969	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	132	637929318203584512	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	133	637929326357311489	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	134	637929335010168832	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	135	637929343889469441	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	136	637929352299081728	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	137	637929360712863744	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	138	637929369235685381	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	139	637929384846856192	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	140	637929395848515584	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	141	637929408083312642	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	142	637929418027982848	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	143	637929788317962241	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	144	637929797935501312	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	145	637929802851160064	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	146	637930353890586624	rt sahabat news relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	147	637930905240141824	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	148	637932798280536064	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	149	637932803242389505	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	150	637932804894953472	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	151	637932806975320064	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	152	637932822167064576	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	153	637932825790951424	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	154	637932828437549057	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	155	637932831792984064	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	156	637932832799612928	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	157	637932833105797120	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	158	637932834972282880	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	159	637932836746493952	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	160	637932839435046913	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	161	637932842979344384	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	162	637932846657634304	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	163	637932852693237760	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	164	637932855792914432	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	165	637932870510575616	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	166	637932891347922944	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	167	637932896418856960	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	168	637933166506803200	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	169	637933166536200193	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	170	637933166540361728	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	171	637933166544556032	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	172	637933166544617474	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	173	637933166557179906	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	174	637933166561390593	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	175	637933166565523458	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	176	637933166569721856	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	177	637933166569742338	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	178	637933166599102464	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	179	637933166599114752	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	180	637933168620781568	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	181	637933292893814784	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	182	637933292910567424	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	183	637933292956708864	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	184	637933293111894016	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	185	637933293132910592	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	186	637933293229314048	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	187	637933296945491968	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	188	637933423647043584	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	189	637933425396092928	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	190	637933550411485184	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	191	637933550486982656	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	192	637933553641132032	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	193	637933555029446660	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	194	637933558691041280	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	195	637933563736817664	 relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	196	637933567859814405	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	197	637933571190054913	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	198	637933575266893825	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	199	637933583500341249	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	200	637933584200830976	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	201	637933597844836352	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	202	637933598667051008	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	203	637933616002035712	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	204	637933630539436032	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	205	637933631365746688	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	206	637933661401169920	relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	207	637935451114876928	bagus itu mantab broh moncrett relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah 
+1	208	637951567413440512	rt mat jambrong relawan jokowi dan seknas pdip didesak kumpulkan uang untuk memperkuat rupiah aduh 
+1	209	638353815540895744	 jokowi rupiah melemah 0 1 aja banyak efeknya ke perusahaan dan org yg bekerja di perusahaan tolong pak serius dan fokus hindari takabur
+1	210	639086696961716224	rupiah melemah banyak pabrik yg gulung tikar dan makin banyak pengangguran karna korban phk entahlah gimana kerja pemerintahan 
+1	211	642036397285642240	melemahnya rupiah dan terpuruknya ekonomi membuat intel jokowi bekerja megamankan kantong2 massa di dki dgn cara blusukan n bagi2 sembako
+1	212	647073913512398848	krisis makin buruk akademisi dan praktisi soroti lemahnya leadership jokowi jokowigagalrupiahanjlok
+1	213	647185123524259840	rupiah terus melemah sehari hari hidup rakyat semakin susah bangkit dan kerja full pak jokowi dengan timnya hidupjokowi merdeka 
+1	214	647347880576073728	 news rupiah melemah pabrik makanan kurangi jam kerja dan lembur tempo tem 1nusanews
+1	215	649031236845867008	ancaman phk untuk para pekerja buruh dikarenakan nilai rupiah melemah ndi janjimu pak jokowi 
+1	216	649204827986137093	 keterpurukan rupiah karena lemahnya pemerintah dan kabinet kerja 
+1	217	649210987006963712	bambang soesatyo paket ekonomi ii belum efektif keterpurukan rupiah karena lemahnya pemerintah dan kabinet kerja 
+1	218	650574857504079873	 abdhafid 888 sbyudhoyono setuju sekali kelemahan pemerintahan dan tidaksolidnya kabinet kerja adalah faktor utama yang melemahkan rupiah
+1	219	651649372720005120	oh rupiahku makn kuat dolar as ke level rp13 860 menko darmin so what bagus kan 
+1	220	652400636873433088	ada kabar buruk bagi haters istana dimana dollar melemah dan rupiah kembali perkasa jokowi
+1	221	652613932314529793	 jokowihebatrupiahkuat 
+1	222	656657524779671553	 metro tv bukan berita baru lg rupiah melemah inilah hasil kerja jokowi dan nawacitanya selama setahun 
+2	1	637676117948825600	apabila jokowi berani memecat puan maharani maka rupiah bisa menguat dan kepercayaan rakyat terhadap jokowi akan kembali meningkat
+2	2	637679625053732865	rt kangsyam78 apabila jokowi berani memecat puan maharani maka rupiah bisa menguat dan kepercayaan rakyat terhadap jokowi akan kembali m 
+2	3	637685834808889345	rt kangsyam78 apabila jokowi berani memecat puan maharani maka rupiah bisa menguat dan kepercayaan rakyat terhadap jokowi akan kembali m 
+2	4	637691434238259200	rt kangsyam78 apabila jokowi berani memecat puan maharani maka rupiah bisa menguat dan kepercayaan rakyat terhadap jokowi akan kembali m 
+2	5	637761919835762688	rt intelijen apabila jokowi berani memecat puan maharani maka rupiah bisa menguat dan kepercayaan rakyat terhadap jokowi akan kembali m 
+2	6	637762689704394753	rt intelijen apabila jokowi berani memecat puan maharani maka rupiah bisa menguat dan kepercayaan rakyat terhadap jokowi akan kembali m 
+2	7	637769341463756800	pengamat jokowi berani pecat puan maharani rupiah langsung menguat 
+2	8	637771094376583168	rt intelijen apabila jokowi berani memecat puan maharani maka rupiah bisa menguat dan kepercayaan rakyat terhadap jokowi akan kembali m 
+2	9	637777166415953922	rt setiaone83 pengamat jokowi berani pecat puan maharani rupiah langsung menguat 
+2	10	637800516689379329	rt intelijen apabila jokowi berani memecat puan maharani maka rupiah bisa menguat dan kepercayaan rakyat terhadap jokowi akan kembali m 
+2	11	637864057026904064	rt intelijen apabila jokowi berani memecat puan maharani maka rupiah bisa menguat dan kepercayaan rakyat terhadap jokowi akan kembali m 
+2	12	637875818648047616	jokowi pecat puan maharani rupiah langsung menguat dan mendapat dukungan rakyat 
+2	13	637914028044591105	pengamat jokowi berani pecat puan maharani rupiah langsung menguat 
+2	14	637917258623258625	intelijen pengamat jokowi berani pecat puan maharani rupiah langsung menguat intelijen w owner pic 
+2	15	638008644588580864	rt intelijen apabila jokowi berani memecat puan maharani maka rupiah bisa menguat dan kepercayaan rakyat terhadap jokowi akan kembali m 
+2	16	638017550610243584	jokowi berani pecat puan maharani rupiah langsung menguat
+2	17	638018713258582016	rt kangsyam78 jokowi berani pecat puan maharani rupiah langsung menguat
+2	18	638019477116858372	rt kangsyam78 jokowi berani pecat puan maharani rupiah langsung menguat
+2	19	638019791232479232	rt kangsyam78 jokowi berani pecat puan maharani rupiah langsung menguat
+2	20	638020421497978880	rt kangsyam78 jokowi berani pecat puan maharani rupiah langsung menguat
+2	21	638021347436724224	rt kangsyam78 jokowi berani pecat puan maharani rupiah langsung menguat
+2	22	638021582472916992	rt kangsyam78 jokowi berani pecat puan maharani rupiah langsung menguat
+2	23	638021650630336512	rt kangsyam78 jokowi berani pecat puan maharani rupiah langsung menguat
+2	24	638022909940797440	rt kangsyam78 jokowi berani pecat puan maharani rupiah langsung menguat
+2	25	638025019390427137	rt kangsyam78 jokowi berani pecat puan maharani rupiah langsung menguat
+3	1	633478200861945856	penggantian mentri kabinet kerja disikapi dng tdk ramah oleh padat rupiah tetap melemah indeg harga saham satu minggu terkoreksi lebih 4 
+3	2	633489624694845442	charles honoris optimis jokowi bangun bangsa via ekonomi melemah 68 poin rupiah di level rp 13 800 dprkerja
+3	3	633489624950681600	charles honoris optimis jokowi bangun bangsa via ekonomi melemah 68 poin rupiah di level rp 13 800 dprkerja
+3	4	633489625672126465	charles honoris optimis jokowi bangun bangsa via ekonomi melemah 68 poin rupiah di level rp 13 800 dprkerja
+3	5	633489625701441536	charles honoris optimis jokowi bangun bangsa via ekonomi melemah 68 poin rupiah di level rp 13 800 dprkerja
+3	6	633489626158641152	charles honoris optimis jokowi bangun bangsa via ekonomi melemah 68 poin rupiah di level rp 13 800 dprkerja
+3	7	633489626305400832	charles honoris optimis jokowi bangun bangsa via ekonomi melemah 68 poin rupiah di level rp 13 800 dprkerja
+3	8	633877278615703552	rupiah melemah krisis di dpn mata pabrik garmen pengolahan ikan bnyk gulung tiker mana kerja kabinet kerja jokowi ana khoz tiduur
+3	9	633921158618845184	rupiah melemah mendekati rp 14 000 kabinet kerja malah aduuuhh mulut rizal ramli vs jk efekpresidenhebat
+3	10	634585242003632128	apakabar pak jokowi kerja 2 rt rupiah 21 agustus kurs tengah bi melemah 57 poin ke rp13 895 
+3	11	634618158075236352	 kompastv buat para menteri keuangn supaya kerja lebih baik buat sebaik mungkin agar rupiah tidak smakin melemah 
+3	12	634932212006129664	 kalau dolar rp 13 400 kabinet kerja sama saja tak kerja jakarta kondisi rupiah yang terus melemah mend 
+3	13	635619286409592832	rupiah cm melemah 16 aja udh pd pesimis tenang jokowi sdh bertekad bulat ayo kerja 
+3	14	635620009973186560	rt ssirah rupiah cm melemah 16 aja udh pd pesimis tenang jokowi sdh bertekad bulat ayo kerja 
+3	15	635682268296540160	gila rupiah melemah dolar rp 14 ribu apa kok makin buruk aja pak jokowi presiden ri kinerja ekonominya ya siap2 elektronik naik
+3	16	635691572818870272	rupiah 14 000 pembukaan ihsg hari ini melemah 5 hasil kocok menteri kabinet kerja justru mengocok pasar keuangan 
+3	17	635862704486379520	charles honoris optimis jokowi bangun bangsa via ekonomi rupiah melemah gubernur bi klaim perbankan dprkerja
+3	18	635862704591208448	charles honoris optimis jokowi bangun bangsa via ekonomi rupiah melemah gubernur bi klaim perbankan dprkerja
+3	19	635862704612184064	charles honoris optimis jokowi bangun bangsa via ekonomi rupiah melemah gubernur bi klaim perbankan dprkerja
+3	20	635862704742268929	charles honoris optimis jokowi bangun bangsa via ekonomi rupiah melemah gubernur bi klaim perbankan dprkerja
+3	21	635862705132335104	charles honoris optimis jokowi bangun bangsa via ekonomi rupiah melemah gubernur bi klaim perbankan dprkerja
+3	22	635862705367203840	charles honoris optimis jokowi bangun bangsa via ekonomi rupiah melemah gubernur bi klaim perbankan dprkerja
+3	23	635909025641574400	charles honoris optimis jokowi bangun bangsa via ekonomi rupiah terus melemah bii naikkan besaran s dprkerja
+3	24	635909026048380929	charles honoris optimis jokowi bangun bangsa via ekonomi rupiah terus melemah bii naikkan besaran s dprkerja
+3	25	635909026060984322	charles honoris optimis jokowi bangun bangsa via ekonomi rupiah terus melemah bii naikkan besaran s dprkerja
+3	26	635909026061004801	charles honoris optimis jokowi bangun bangsa via ekonomi rupiah terus melemah bii naikkan besaran s dprkerja
+3	27	635909026119680000	charles honoris optimis jokowi bangun bangsa via ekonomi rupiah terus melemah bii naikkan besaran s dprkerja
+3	28	635909026618851328	charles honoris optimis jokowi bangun bangsa via ekonomi rupiah terus melemah bii naikkan besaran s dprkerja
+3	29	635980392315523072	ayo pak jokowi kerja kerja kerja rupiah melemah terus jgn kecewakan yg sdh mendukung bpk meski sy pribadi tdk pilih bpk d pilpres 2014
+3	30	636107089065082880	 infopekerja rupiah melemah jokowi minta media tulis berita optimisme 
+3	31	636126572655738880	jng bnyak ngomong lah kerja 10x liputan6dotcom editorschoice jokowi rupiah melemah akibat 2 faktor 
+3	32	636141540952289280	kenapa rupiah melemah ini semua gara gara jokowi yg menginpor pekerja asing ke indonesia
+3	33	636147809708699648	 fadjroel sama sj dgn pemerintahan sblmnya pencitraan padahal banyak org2 pinter aktivis tapi rupiah melemah ayo kerja kerja kerja 
+3	34	636194365904293888	udah gak kuat deh kalu ngomongin rupiah melemah pasrah aja gimana kedepan nya pemerintahan yg buruk sepertinya gak kuat abang dek 
+3	35	636212919592620032	kondisi bangsa ini sedang terpuruk yg ditandai melemahnya rupiah karena kgagalan kabinet kerja kegagalan tersebut berada pd serg pemimpinnya
+3	36	636212919642951680	kondisi bangsa ini sedang terpuruk yg ditandai melemahnya rupiah karena kgagalan kabinet kerja kegagalan tersebut berada pd serg pemimpinnya
+3	37	636212919747743745	kondisi bangsa ini sedang terpuruk yg ditandai melemahnya rupiah karena kgagalan kabinet kerja kegagalan tersebut berada pd serg pemimpinnya
+3	38	636218017349660672	rupiah melemah prabowo08 baru selamatkn 1 org tki udh bangga hebatn jokowi dong udh menyelamatkn ribuan tenaga kerja cina dr pengangguran
+3	39	636222559072063489	rupiah melemah kata jokowi itu bukan urusan saya hdp hanya hidp saja babi di htan jga hdp kerja hanya kerja saja kera di hutan jga kerja
+3	40	636230373073022976	charles honoris optimis jokowi bangun bangsa via ekonomi pelemahan rupiah tak berdampak signifikan pa dprkerja
+3	41	636230373085589504	charles honoris optimis jokowi bangun bangsa via ekonomi pelemahan rupiah tak berdampak signifikan pa dprkerja
+3	42	636230375258263552	charles honoris optimis jokowi bangun bangsa via ekonomi pelemahan rupiah tak berdampak signifikan pa dprkerja
+3	43	636230376311001088	charles honoris optimis jokowi bangun bangsa via ekonomi pelemahan rupiah tak berdampak signifikan pa dprkerja
+3	44	636230377128882176	charles honoris optimis jokowi bangun bangsa via ekonomi pelemahan rupiah tak berdampak signifikan pa dprkerja
+3	45	636230378089410560	charles honoris optimis jokowi bangun bangsa via ekonomi pelemahan rupiah tak berdampak signifikan pa dprkerja
+3	46	636233526803869696	kita memang harus optimis tpi jangan menutup mata pda kemungkinan terburuk hal ini rupiah melemah terus berlanjut bagaimana pak jokowi 
+3	47	636279316150550529	 chirpstory jokowi mrspersona cuma gitu aja kok heboh yg penting hasil kerja donk lht tuh rupiah melemah
+3	48	636378362806558721	charles honoris optimis jokowi bangun bangsa via ekonomi kembali melemah rupiah ada di level rp 14 100 dprkerja
+3	49	636378362919849984	charles honoris optimis jokowi bangun bangsa via ekonomi kembali melemah rupiah ada di level rp 14 100 dprkerja
+3	50	636378363838377984	charles honoris optimis jokowi bangun bangsa via ekonomi kembali melemah rupiah ada di level rp 14 100 dprkerja
+3	51	636378363976769536	charles honoris optimis jokowi bangun bangsa via ekonomi kembali melemah rupiah ada di level rp 14 100 dprkerja
+3	52	636378365516115968	charles honoris optimis jokowi bangun bangsa via ekonomi kembali melemah rupiah ada di level rp 14 100 dprkerja
+3	53	636378366237499392	charles honoris optimis jokowi bangun bangsa via ekonomi kembali melemah rupiah ada di level rp 14 100 dprkerja
+3	54	636381406503956480	pak jokowi apa yg sedang anda kerjakan skrg melihat rupiah yg sangat lemah berdampak besar pd ekonomi negara status warning indonesia
+3	55	636548715289800704	kerja pak mari kerja republikaonline rupiah melemah menteri darmin akui seluruh kawasan panik 
+3	56	636579733686214657	nilai tukar rupiah melemah pertanyaan kinerja kabinet kerja
+3	57	636753771591135232	charles honoris optimis jokowi bangun bangsa via ekonomi melemah rupiah tertahan di kisaran rp 14 100 dprkerja
+3	58	636753771633053699	charles honoris optimis jokowi bangun bangsa via ekonomi melemah rupiah tertahan di kisaran rp 14 100 dprkerja
+3	59	636753773105278977	charles honoris optimis jokowi bangun bangsa via ekonomi melemah rupiah tertahan di kisaran rp 14 100 dprkerja
+3	60	636753773306646528	charles honoris optimis jokowi bangun bangsa via ekonomi melemah rupiah tertahan di kisaran rp 14 100 dprkerja
+3	61	636753773457600512	charles honoris optimis jokowi bangun bangsa via ekonomi melemah rupiah tertahan di kisaran rp 14 100 dprkerja
+3	62	636753773507948545	charles honoris optimis jokowi bangun bangsa via ekonomi melemah rupiah tertahan di kisaran rp 14 100 dprkerja
+3	63	636807934035431424	rupiah melemah harga bahan pokok meroket di papua makan tempe penyet saja rp 20000 ayo pak jokowi bekerja okezone detikcom vivanews
+3	64	637074779179106304	 jokowi fokus kerja rupiah melemah diselesaikan indonesia jaya semangat pak jokowi 
+3	65	637170993367089152	 tvonenews rupiah melemah kan gak selalu jelek tiongkok malahan devaluasi yuan nya jgn salahkan jokowi terus deh sekali waktu tv one dukung 
+3	66	637446202854739968	 msi sohibuliman 1 rupiah terus melemah berdampak buruk pd perekonomian kt tp apakah itu pertanda krisis akan datang wapada jokowi
+3	67	637580597892767744	 infopekerja rupiah melemah menteri susi ini berkah 
+3	68	637802366167707649	rupiah anjlok bkn krn faktor intern bkn salah jokowi tp krn menguatnya ekonomi amerika 
+3	69	637920930258292737	rakyat jg akn interpelasi dpr kerja apa mrk 10 bln ini ndorotweet rupiah melemah dpr harus interpelasi jokowi 
+3	70	638623993491140608	penolakan tenaga kerja asing rupiah melemah ihsg jatuh 49 point demoburuh 
+3	71	638696869292478464	rupiah melemah hanura ingatkan pemerintahan jokowi ekstra hati hati jokopediaid setkabgoid kabinet kerja
+3	72	638711113392123904	rupiah melemah fspmi pertanyakan hasil kerja jokowi via berita rri rrinews 
+3	73	638919830905745408	programnya ayo kerja tapi skrng lagi marak maraknya phk trus rupiah juga melemah haha gimana sih pak jokowi
+3	74	638924542153392128	pak jokowi rupiah makin melemah pengeluaran pabrik perusahaan semakin besar akibatnya pabrik perusahaan mengurangi pekerja 
+3	75	639272551626117120	charles honoris optimis jokowi bangun bangsa via ekonomi melemah rupiah dekati level rp 14 200 di ba dprkerja
+3	76	639272552095879168	charles honoris optimis jokowi bangun bangsa via ekonomi melemah rupiah dekati level rp 14 200 di ba dprkerja
+3	77	639272552230076416	charles honoris optimis jokowi bangun bangsa via ekonomi melemah rupiah dekati level rp 14 200 di ba dprkerja
+3	78	639272552246849536	charles honoris optimis jokowi bangun bangsa via ekonomi melemah rupiah dekati level rp 14 200 di ba dprkerja
+3	79	639272552506875904	charles honoris optimis jokowi bangun bangsa via ekonomi melemah rupiah dekati level rp 14 200 di ba dprkerja
+3	80	639272552607539201	charles honoris optimis jokowi bangun bangsa via ekonomi melemah rupiah dekati level rp 14 200 di ba dprkerja
+3	81	639465402012053504	ayo kerja lebih keras jokowi pak jk sindonews rupiah terus melemah perajin batik ikut terpuruk
+3	82	639993359201800192	kan sudah di jwb sama jokowi 14 rb mah aman seperti nya nunggu 20rb bru pada kerja btul metro tv akbar rupiah melemah pemerintah harus
+3	83	640037981043097600	 jokowi pa teman saya kena dampak rupiah melemah teman saya yg tulang punggung kluarga harus di rumah kan ayo kerja pa
+3	84	640503454822100992	betul perubahan zaman menuju kebangkrutan rupiah melemah ekonomi terpuruk phk dmn2 dan pekerja cina merajalela 
+3	85	640725244492189704	meski rupiah kian melemah harga bahan pokok naik tapi semangat harus kian membara kalo kata bpk jokowi ayo kerja semangatmengabdi
+3	86	641108475313958912	 jokowi gw usul kpd bpkpresdnjkw kurs rupiah trs melemah hrp kerja fokus kepenguatan rupiah agenda lain tunda ganti gub bi krn org masa lalu
+3	87	641971763019051008	dimana nilai tukar rupiah melemah ekonomi memburuk dan lucunya negara indonesia yg lautnya luas pun harus impor garam jokowi
+3	88	642182845679599616	 radioelshinta ekonomi melemah rupiah melemah ini yakin pasti ada yang bermain di belakang supaya pemerintahan jokowi jk jelek 
+3	89	642257663301062656	kerja sukses jokowi rupiah melemah indef paket ekonomi jokowi diragukan tem arbib
+3	90	642257666107142144	kerja sukses jokowi rupiah melemah indef paket ekonomi jokowi diragukan tem arbib
+3	91	642257671362506752	jokowi kabinetkerja temporupiah melemah indef paket ekonomi jokowi diragukant arbib
+3	92	642257674743103488	jokowi kabinetkerja temporupiah melemah indef paket ekonomi jokowi diragukant arbib
+3	93	642257719324377088	jokowi kabinetkerja temporupiah melemah indef paket ekonomi jokowi diragukant arbib
+3	94	642257723988447232	jokowi kabinetkerja temporupiah melemah indef paket ekonomi jokowi diragukant arbib
+3	95	642296352936820736	kerja sukses jokowi rupiah melemah indef paket ekonomi jokowi diragukan tem arbib
+3	96	642296357412212737	kerja sukses jokowi rupiah melemah indef paket ekonomi jokowi diragukan tem arbib
+3	97	642314465753497601	jokowi kabinetkerja temporupiah melemah indef paket ekonomi jokowi diragukant arbib
+3	98	642648199241469952	rupiah terus melemah menteri hanif phk masih 26 506 orang menteri ketenagakerjaan hanif dhakiri menyatakan 
+3	99	642649429644709888	rupiah terus melemah menteri hanif phk masih 26 506 orang menteri ketenagakerjaan hanif dhakiri menyatakan 
+3	100	642650540048936960	 verified dkrinkz rupiah terus melemah menteri hanif phk masih 26 506 orang menteri ketenagakerja dkrinkz
+3	101	643268417353416705	charles honoris optimis jokowi bangun bangsa via ekonomi rupiah melemah 16 poin dprkerja
+3	102	643268417823248384	charles honoris optimis jokowi bangun bangsa via ekonomi rupiah melemah 16 poin dprkerja
+3	103	643268417860993024	charles honoris optimis jokowi bangun bangsa via ekonomi rupiah melemah 16 poin dprkerja
+3	104	643268418070671360	charles honoris optimis jokowi bangun bangsa via ekonomi rupiah melemah 16 poin dprkerja
+3	105	643268418808868864	charles honoris optimis jokowi bangun bangsa via ekonomi rupiah melemah 16 poin dprkerja
+3	106	643268419194761217	charles honoris optimis jokowi bangun bangsa via ekonomi rupiah melemah 16 poin dprkerja
+3	107	643305794201456640	kaga becus jokowi vivacoid rupiah melemah puluhan ribu pekerja kena phk tahun ini 
+3	108	644096255694508033	charles honoris optimis jokowi bangun bangsa via ekonomi rupiah melemah jk minta kemtan tingkatkan p dprkerja
+3	109	644096255698669568	charles honoris optimis jokowi bangun bangsa via ekonomi rupiah melemah jk minta kemtan tingkatkan p dprkerja
+3	110	644096256478855168	charles honoris optimis jokowi bangun bangsa via ekonomi rupiah melemah jk minta kemtan tingkatkan p dprkerja
+3	111	644096257493864448	charles honoris optimis jokowi bangun bangsa via ekonomi rupiah melemah jk minta kemtan tingkatkan p dprkerja
+3	112	644096257531613185	charles honoris optimis jokowi bangun bangsa via ekonomi rupiah melemah jk minta kemtan tingkatkan p dprkerja
+3	113	644096259922366464	charles honoris optimis jokowi bangun bangsa via ekonomi rupiah melemah jk minta kemtan tingkatkan p dprkerja
+3	114	644110200522215424	rt ilhamnurikhsan dimana nilai tukar rupiah melemah ekonomi memburuk dan lucunya negara indonesia yg lautnya luas pun harus impor gara 
+3	115	644352444349046784	charles honoris optimis jokowi bangun bangsa via ekonomi rupiah melemah 10 poin dprkerja
+3	116	644352444537827328	charles honoris optimis jokowi bangun bangsa via ekonomi rupiah melemah 10 poin dprkerja
+3	117	644352444583968768	charles honoris optimis jokowi bangun bangsa via ekonomi rupiah melemah 10 poin dprkerja
+3	118	644352444638429184	charles honoris optimis jokowi bangun bangsa via ekonomi rupiah melemah 10 poin dprkerja
+3	119	644352444781084673	charles honoris optimis jokowi bangun bangsa via ekonomi rupiah melemah 10 poin dprkerja
+3	120	644352444793618432	charles honoris optimis jokowi bangun bangsa via ekonomi rupiah melemah 10 poin dprkerja
+3	121	644539299296227328	 jokowi peluang apa rupiah makin melemah pak kerja kerja tp hasilnya 
+3	122	645810937920753665	charles honoris optimis jokowi bangun bangsa via ekonomi pagi ini rupiah alami pelemahan dprkerja
+3	123	645810938113691648	charles honoris optimis jokowi bangun bangsa via ekonomi pagi ini rupiah alami pelemahan dprkerja
+3	124	645810938952577024	charles honoris optimis jokowi bangun bangsa via ekonomi pagi ini rupiah alami pelemahan dprkerja
+3	125	645810939246174208	charles honoris optimis jokowi bangun bangsa via ekonomi pagi ini rupiah alami pelemahan dprkerja
+3	126	645810939707592704	charles honoris optimis jokowi bangun bangsa via ekonomi pagi ini rupiah alami pelemahan dprkerja
+3	127	645810940416385024	charles honoris optimis jokowi bangun bangsa via ekonomi pagi ini rupiah alami pelemahan dprkerja
+3	128	646560798987255808	apakah anggota pemerintahan nggak tau kerjaannya apa kok rupiah terus melemah terus lemahkan pak bu 
+3	129	646612658242785280	kondisi ekonomi semakin buruk rupiah melemah dollar menguat ini pertanda pemerintahan jokowi jk tidak mampu bekerja dg baik mundur saja
+3	130	646714726014058496	hasil kerja kerja kerja jokowi bisniscom rupiah melemah perusahaan cari alternatif lindungi utang dolar 
+3	131	646867820639186944	charles honoris optimis jokowi bangun bangsa via ekonomi pagi ini rupiah makin melemah tembus rp 14 dprkerja
+3	132	646867820794396676	charles honoris optimis jokowi bangun bangsa via ekonomi pagi ini rupiah makin melemah tembus rp 14 dprkerja
+3	133	646867821222232065	charles honoris optimis jokowi bangun bangsa via ekonomi pagi ini rupiah makin melemah tembus rp 14 dprkerja
+3	134	646867821238980609	charles honoris optimis jokowi bangun bangsa via ekonomi pagi ini rupiah makin melemah tembus rp 14 dprkerja
+3	135	646867821322874881	charles honoris optimis jokowi bangun bangsa via ekonomi pagi ini rupiah makin melemah tembus rp 14 dprkerja
+3	136	646867821545132032	charles honoris optimis jokowi bangun bangsa via ekonomi pagi ini rupiah makin melemah tembus rp 14 dprkerja
+3	137	647291568051785728	dengar rupiah trs2an melemah sdh biasa ntar klo sdh 12rb lg itu baru luar biasa kinerjanya kabinet kerja3x 
+3	138	647644717392355328	dari presidennya dari pemilihan kabinet kerja kasus freeport kasus kpk vs polri kasus rupiah melemah kasus asap riau
+3	139	649581378221142016	rupiah makin melemah jumlah phk banyak ekonomi makin terpuruk terimakasih buat jokowi atas kerjanya kerja kerja kerja goodybagpresidenmu
+3	140	649582172307783680	rt m fauzan980 rupiah makin melemah jumlah phk banyak ekonomi makin terpuruk terimakasih buat jokowi atas kerjanya kerja kerja kerja g 
+3	141	649582719995744256	rt m fauzan980 rupiah makin melemah jumlah phk banyak ekonomi makin terpuruk terimakasih buat jokowi atas kerjanya kerja kerja kerja g 
+3	142	649586913960050692	rt m fauzan980 rupiah makin melemah jumlah phk banyak ekonomi makin terpuruk terimakasih buat jokowi atas kerjanya kerja kerja kerja g 
+3	143	651269813059252224	pupiah melemah salahkan bi rupiah melompat diklaim kerja jokowi sepak terimakasihagusmarwoto
+3	144	651270344565592064	pupiah melemah salahkan bi rupiah melompat diklaim kerja jokowi sepak terimakasihagusmarto
+3	145	651363940375527424	 hebohnet supriyanto dei kalau rupiah melemah tagarnya pasti menjelekkan jokowi pdhl ini efek mau digantinya gubernur bi jd rupiah kuat 
+3	146	652437976778063872	hebatnya jokowi ekonomi mulai meroket bank indonesia bi menyatakan penguatan rupiah itu khususnya yang 
+3	147	653926194795032577	 ibehnababan detikcom detikfinance sipitung64 rupiah melemah ya koh pasti gara jokowi gk kerja nih 
+3	148	653979356021198849	belum lama ini ad menteri bilang pelemahan rupiah bagus buat indonesia hehe aljabbarin2 johnnie muhan partaisocmed marvel 16 hary tanoe
+3	149	656405404721659906	setahun jokowi jk serapan belanja modal buruk buat rupiah melemah 
+3	150	656613514199498754	bukan sekedar merah keadaan makin parah rakyat makin payah tak punya rupiah daya beli melemah kerja kerja kerja apah 
+3	151	658098272045633536	 jokowi nawa cita menjadi duka cita rupiah melemah terparah kebakaran hutan terparah kabinet kerja terlelet juga kah tolong lebih sigap
+4	1	633694597932146688	rupiah kuat kalo jokowi menang republikaonline bei bumn harus yakin pasar modal akan bagus jika mereka go public 
+4	2	633814964780687360	jokowi itu hebat dia membuat orang2 cinta rupiah dan jangan sok2an beli dollar mahal tahu yettidewi
+4	3	633817278430056448	rt udayyoung jokowi itu hebat dia membuat orang2 cinta rupiah dan jangan sok2an beli dollar mahal tahu yettidewi
+4	4	633921523049336832	rt mahakhey rupiah melemah mendekati rp 14 000 kabinet kerja malah aduuuhh mulut rizal ramli vs jk efekpresidenhebat
+4	5	633922240317263873	rt mahakhey rupiah melemah mendekati rp 14 000 kabinet kerja malah aduuuhh mulut rizal ramli vs jk efekpresidenhebat
+4	6	633924744752947200	rt mahakhey rupiah melemah mendekati rp 14 000 kabinet kerja malah aduuuhh mulut rizal ramli vs jk efekpresidenhebat
+4	7	634612664786776064	rt bangkapos rupiah terus melemah mendekati rp 14 ribu apa kerja pemerintah jokowi worldbank museumbi 
+4	8	634873503297073152	pantes ae rupiah semakin lemah p mqfmbandung 3 jokowi minta syarat pekerja asing mampu berbahasa indonesia dihapus
+4	9	635563511314120705	 rupiahmelemah sudah rp 14 000 mari turunkan prabowo sekarang jokowi kerja monyet juga kerja 
+4	10	635764831681777664	rt kristwianto terharu bgmn pak jokowi bersusah payah dan bekerja keras memikirkan sebab dari lemahnya nilai rupiah dan menjelaskannya k 
+4	11	635806683139149824	 jokowi jgnkan sbg seorang kpopers sbg karyawan yg bekerja di bidang travel perusahaan kami juga mengalami kerugian akibat lemahnya rupiah
+4	12	635868082548830208	semakin rupiah terpuruk ke 14 000 itu sebenernya bagus buat pemerintahan pak jokowi ke depannya itu makin gampang dapet pujapuji 
+4	13	636006348820492288	tapi anda tidak cinta pekerja lokal podoae lek rt jokowi ayo bahu membahu atasi pelemahan rupiah dengan cara beli produk lokal jkw
+4	14	636011862350389248	kerjakerjakerja jokowi pelemahan rupiah sudah diluar kebiasaan kemarin saya ajak dunia usaha bersama pemerintah lakukan terobosan jkw 
+4	15	636016357696385024	 detikfinance tkusah dibanding2kan yg penting bagaimana caranya agar rupiah tksemakin lemah slogan ayo kerja hanya bualan jokowi saja
+4	16	636032252728598530	lokal yg mana gan pekerja aja lu impor dr cina pret lah rt jokowi ayo bahu membahu atasi pelemahan rupiah dengan cara beli produk lokal
+4	17	636036357761073152	kerja sukses jokowi tweet jokowi ayo atasi pelemahan rupiah dengan beli produk arbib
+4	18	636036364866158592	kerja sukses jokowi tweet jokowi ayo atasi pelemahan rupiah dengan beli produk arbib
+4	19	636036372235550720	jokowi kabinetkerja detikcomtweet jokowi ayo atasi pelemahan rupiah dengan bel arbib
+4	20	636036382725566465	jokowi kabinetkerja detikcomtweet jokowi ayo atasi pelemahan rupiah dengan bel arbib
+4	21	636036390875086849	jokowi kabinetkerja detikcomtweet jokowi ayo atasi pelemahan rupiah dengan bel arbib
+4	22	636036400249344000	jokowi kabinetkerja detikcomtweet jokowi ayo atasi pelemahan rupiah dengan bel arbib
+4	23	636080209209327616	 kompastv atasi pelemahan rupiah jokowi ayo beli produk lokal yg mau beli pd nganggur ayo rakyat tiongkok kerja
+4	24	636124720044208129	joko widodo adalah presiden hebat broo perekonomian stabil nilai tukar rupiah menguat sepakbola mantap 
+4	25	636151557420007425	rupiahnya dede lemah kakak bapak jokowi kudu semangat kerjanya vid 
+4	26	636153946076086272	pak jokowi pak jk kalian kerja nggk sih mnding mndur dri pda rupiah lemah terus sbyudhoyono rupiahhancur
+4	27	636302856774029312	slogan 70th nkri ayo kerja in rakyat rupiah lemah menteri sama wapres pasea bpjs mudeng kerja apa dikerjain 
+4	28	636313873834901504	kompas pagi kompastv kabinet jokowi jk sedang bekerja atasi krisis percayakan kepada mereka situasi pelemahan rupiah saat ini 
+4	29	636345268288421888	rt hajiilan slogan 70th nkri ayo kerja in rakyat rupiah lemah menteri sama wapres pasea bpjs mudeng kerja apa dikerjain 
+4	30	636377635870785538	tng kerja aja bpk import dr china rt jokowi ayo bahu membahu atasi pelemahan rupiah dengan cara beli produk lokal jkw
+4	31	636482594234765312	kok pekerja impor pak kontraktor impor pak rt bbcindonesia presiden jokowi mengimbau beli produk lokal untuk atasi pelemahan rupiah 
+4	32	636508059594964992	kalo jokowi mau dibilang hebat seharusnya rupiah jd mata uang break through disaat yg lain melemah justru ia menguat
+4	33	636508629940596736	rt dimasprakbar kalo jokowi mau dibilang hebat seharusnya rupiah jd mata uang break through disaat yg lain melemah justru ia menguat
+4	34	636509894619742208	rt dimasprakbar kalo jokowi mau dibilang hebat seharusnya rupiah jd mata uang break through disaat yg lain melemah justru ia menguat
+4	35	636517481998237697	 jokowi semakin lemah rupiah akan semakin menarik asing investasi karena biaya tenaga kerja semakin murah 
+4	36	636526322504695808	rt dimasprakbar kalo jokowi mau dibilang hebat seharusnya rupiah jd mata uang break through disaat yg lain melemah justru ia menguat
+4	37	636530749131223040	rt dimasprakbar kalo jokowi mau dibilang hebat seharusnya rupiah jd mata uang break through disaat yg lain melemah justru ia menguat
+4	38	636546118990479360	3 bahkan pelemahan rupiah menjadi yg terburuk ke 2 di asia menkeu perekonomianri jokowi fadlizon anismatta
+4	39	636571880363655168	 jokowi rupiah melemah terus nih ayo kerja
+4	40	636697793231327233	 jokowi ayo kerja rupiah kok melemah terus 
+4	41	636735635059961856	rupiah melemah dompet menguat terima kasih pak jokowi optimis ayokerja
+4	42	636753538098425856	rt walkerbagus tauklah anom pada lagi kebelet pipis bukan jika jokowi jdi presiden maka rupiah akan menguat menolaklupa 
+4	43	636787578750959616	 jokowi ini baru hebat mudah mudahan rupiah juga menguat pak
+4	44	636959079231918080	rt walkerbagus tauklah anom pada lagi kebelet pipis bukan jika jokowi jdi presiden maka rupiah akan menguat menolaklupa 
+4	45	637255659327586308	setelah peluncuran situs sontak rupiah menguat betul2 program pro rakyat jokowi hebat euy rada2metro 
+4	46	637520943586263041	rt semesta kicau jokowi memang hebat rupiah terus menguat sempat di 12 ribu sekarang hampir 14 ribu semangat siapa tahu bisa tembu 
+4	47	637636544975671296	dampak pelemahan rupiah 500 000 pekerja terancam phk hanifdhakiri menakertans jokowi
+4	48	637676595889569792	kalo jokowi tdk memperkuat rupiah sebentar lg pd kelaparan termasuk petani nelayan krn mrk jg kerja di umkm rt mzubir id stnatanegara
+4	49	637680624652779520	rt him nk kalo jokowi tdk memperkuat rupiah sebentar lg pd kelaparan termasuk petani nelayan krn mrk jg kerja di umkm rt mzubir id 
+4	50	637730205591703552	sebelum terpilih jadi presiden media membangun opini intinya rupiah menguat karena jokowi mencalonkan diri 
+4	51	637732142726844416	sebelm jdi presiden detikcom membritkn jokowi baru nyalon presiden rupiah menguat dollar keok rbicara 
+4	52	637735144875388928	rt kaidirmaha 68 sebelm jdi presiden detikcom membritkn jokowi baru nyalon presiden rupiah menguat dollar keok rbicara 
+4	53	637794690570424321	rt jokowi4me tetap yakin ekonomi bakal membaik karena jokowi tak panik kuatkanrupiah 
+4	54	637802016299814913	jokowi kampret loe maspiyungan jadi kalo rupiah mau kuat kata pihak istana masyarakat harus punya persfektif positif 1 usd 1 idr 
+4	55	637806508034494465	ini jurus jokowi agar rupiah kembali menguat 
+4	56	637806546223632384	 lounge ini jurus jokowi agar rupiah kembali menguat assadiqulhaq
+4	57	637806554855575556	 lounge ini jurus jokowi agar rupiah kembali menguat assadiqulhaq
+4	58	637806562212315137	 lounge ini jurus jokowi agar rupiah kembali menguat assadiqulhaq
+4	59	637807006427033601	ini jurus jokowi agar rupiah kembali menguat 
+4	60	637807045878657024	ini jurus jokowi agar rupiah kembali menguat 
+4	61	637807870696751104	 kaskus ini jurus jokowi agar rupiah kembali menguat 
+4	62	637859115239215105	rupiah menguat hehe 
+4	63	637929733460656129	perkuat rupiah jokowi harus reshuffle menteri bumn 
+4	64	637978853298704384	 jokowi hidup kartu pak saya nunggu inovasi krk pak kartu rupiah kuat 
+4	65	637979916089163776	 jokowi pak rupiah babak belur ada cara rupiah bisa menguat inbox pak
+4	66	637992173053440000	 hhendraaremania jokowi hidup kartu pak saya nunggu inovasi krk pak kartu rupiah kuat sepakat saya kartu rupiah kuat kapan 
+4	67	637992271388930048	kartu rupiah kuatnya kapan jokowi 
+4	68	637995274841948160	rt peppramu ntar kalo dollar sdh 10 000 rupiah wonogriyo92 jokowi nasib dollarmenguat yunani sudahlahjokowi
+4	69	637997433952202752	rt peppramu ntar kalo dollar sdh 10 000 rupiah wonogriyo92 jokowi nasib dollarmenguat yunani sudahlahjokowi
+4	70	638256548821647361	kemarin jokowi nyalahin korea skrng rakyat indonesia yg disalahin besok fb disalahin krn ketahuan si joko g becus kerja rupiahmelemah
+4	71	638619352326008833	 jokowi asik makan rupiah down thx pakpres saya harap buruh chaos mogok kerja anarchy jgn lemah pada kapitalis yg liberal
+4	72	638624213943713792	rt auliazein75 penolakan tenaga kerja asing rupiah melemah ihsg jatuh 49 point demoburuh 
+4	73	638889807154778112	dolar terus menguat rupiah terus melemah perlu evaluasi dalam sistem kerja pemerintahan ini supaya krisis moneter tidak terjadi lagi 
+4	74	638956180828590081	rt auliazein75 penolakan tenaga kerja asing rupiah melemah ihsg jatuh 49 point demoburuh 
+4	75	639316559433830400	ha ha alibi yang bagus detikcom menko luhut rupiah tak melemah dolar yang menguat 
+4	76	639324733322891264	rupiah itu kuat gagah perkasa hebat xixixi rt detikcom menko luhut rupiah tak melemah dolar yang menguat 
+4	77	639357193465126912	menko polhukam bukan rupiah yang lemah tapi dolar menguat indonesiahebat
+4	78	639454655953526785	pelemahan rupiah sudah hambat penyaluran kredit jokowi jokopediaid kabinet kerja setkabgoid dpr ri
+4	79	639599220031254528	 faisalbasri mohmahfudmd jokowi rupiah ancur karna ri lbh ke china jepang coba presiden brani buat 1 rp3 500 indonesia hebat rieke diah
+4	80	639684991664848896	7 jika pasar menilai jkw lemah tdk tanggap mentri2nya kurang bagus masih dibawah sby dll sulit bagi rupiah utk menguat jokowi kompastv
+4	81	639758887546019840	sy jg ga tampan teman2 sy saja yg terlalu jelek rt detikcom menko luhut rupiah tak melemah dolar yang menguat 
+4	82	639966360643043328	 sibinokiyo alhamdulillah rupiah pagi ini tetap cm dollarnya aja yg menguat di rp 14 700 jokowi hebat kan bin buwas effect 
+4	83	640111088189599744	rupiah melemah ringgit malaysia menguat masihkah akan bilang bukan hanya rupiah yg melemah jokowi pak jk kablnetkerja
+4	84	640460169101479936	 laju pelemahan rupiah hingga menyentuh level rp 14 160 per dolar amerika serikat menjadi rekor terburuk pasca krisis 1998 jokowi
+4	85	641573581390921728	dear bpk presiden jokowi dampak lemah nya rupiah dampak buruk bagi buruh pak pabrik memphk kan pekerjanya mendadak krn krisis
+4	86	641581921122684928	mantaaap jokowi moharifwidarto paket kebijakan ekonomi akan diumumkan rupiah menguat hebat jadi rp10 000 
+4	87	641583206056103936	rt kandargalang mantaaap jokowi moharifwidarto paket kebijakan ekonomi akan diumumkan rupiah menguat hebat 
+4	88	641586399511113728	rt kandargalang mantaaap jokowi moharifwidarto paket kebijakan ekonomi akan diumumkan rupiah menguat hebat 
+4	89	641781837069615106	rt kandargalang mantaaap jokowi moharifwidarto paket kebijakan ekonomi akan diumumkan rupiah menguat hebat 
+4	90	642122885599989760	 jokowi hebat sekali saya salut presiden pertama yang membanggakan yang membuat rupiah masuk top 10 mata uang sampah di dunia
+4	91	642256262940397569	 liputan6dotcom bagi indonesia melemahnya rupiah tdk membuat ekpor kita bagus melemahnya rupiah hanya melindungi pasar domestik jokowi
+4	92	642649448200323072	menteri ketenagakerjaan hanif dhakiri menyatakan melemahnya rupiah tak serta merta diikuti bertambahnya jumlah 
+4	93	642668457838968832	menteri hanif melemahnya rupiah tak serta merta tenaga kerja kena phk meningkat 
+4	94	642924502557417472	menteri ketenagakerjaan hanif dhakiri menyatakan terus melemahnya nilai tukar rupiah hingga akhir pekan kedua 
+4	95	643053113981693952	sebaliknya jika kredibilitas jokowi semakin memburuk maka rupiah juga akan terus mengalami pelemahan setkabgoid
+4	96	643053114044583936	sebaliknya jika kredibilitas jokowi semakin memburuk maka rupiah juga akan terus mengalami pelemahan setkabgoid
+4	97	643053114195582976	sebaliknya jika kredibilitas jokowi semakin memburuk maka rupiah juga akan terus mengalami pelemahan setkabgoid
+4	98	643053958605369344	rt manispolos sebaliknya jika kredibilitas jokowi semakin memburuk maka rupiah juga akan terus mengalami pelemahan setkabgoid
+4	99	643058654803988481	rt manispolos sebaliknya jika kredibilitas jokowi semakin memburuk maka rupiah juga akan terus mengalami pelemahan setkabgoid
+4	100	643307278960082944	 jokowi mulai hari awal menuju rupiah menguat tentu masih ada waktu untuk prmbrnahan masih bisa melemah lagi masih prematur sy msh kerja
+4	101	643928286549028864	7 jika pasar menilaijkw lemah tdk tanggap mentri2nya kurang bagus masih dibawah sby dll sulit bagi rupiah utk menguat jokowi kompastv
+4	102	644063853970522112	 republikaonline rupiah rp 15 ribu rakyat bisa minta reformasi jilid ii nggak ah buat apa jokowi sdh bagus 
+4	103	644736245961129984	g apa2 hal biasa kan pak jokowi rt tvonenews dampak pelemahan rupiah 2 000 pekerja cont 
+4	104	644746086733643776	ayo kerja eaaa jokowi rt tvonenews dampak pelemahan rupiah 2 000 pekerja diberhentikan 
+4	105	644746407350431745	rt frans surya ayo kerja eaaa jokowi rt tvonenews dampak pelemahan rupiah 2 000 pekerja diberhentikan http 
+4	106	644746530369372160	rt frans surya ayo kerja eaaa jokowi rt tvonenews dampak pelemahan rupiah 2 000 pekerja diberhentikan http 
+4	107	644747086911504384	rt frans surya ayo kerja eaaa jokowi rt tvonenews dampak pelemahan rupiah 2 000 pekerja diberhentikan http 
+4	108	644747332186042368	rt frans surya ayo kerja eaaa jokowi rt tvonenews dampak pelemahan rupiah 2 000 pekerja diberhentikan http 
+4	109	644747631512584192	rt frans surya ayo kerja eaaa jokowi rt tvonenews dampak pelemahan rupiah 2 000 pekerja diberhentikan http 
+4	110	644749684196577280	rt frans surya ayo kerja eaaa jokowi rt tvonenews dampak pelemahan rupiah 2 000 pekerja diberhentikan http 
+4	111	644750673465077760	rt frans surya ayo kerja eaaa jokowi rt tvonenews dampak pelemahan rupiah 2 000 pekerja diberhentikan http 
+4	112	644751291747401728	rt frans surya ayo kerja eaaa jokowi rt tvonenews dampak pelemahan rupiah 2 000 pekerja diberhentikan http 
+4	113	644751428787933185	rt frans surya ayo kerja eaaa jokowi rt tvonenews dampak pelemahan rupiah 2 000 pekerja diberhentikan http 
+4	114	644755367541379072	rt frans surya ayo kerja eaaa jokowi rt tvonenews dampak pelemahan rupiah 2 000 pekerja diberhentikan http 
+4	115	644760636707110913	rt frans surya ayo kerja eaaa jokowi rt tvonenews dampak pelemahan rupiah 2 000 pekerja diberhentikan http 
+4	116	644857381457821701	rt frans surya ayo kerja eaaa jokowi rt tvonenews dampak pelemahan rupiah 2 000 pekerja diberhentikan http 
+4	117	646615593475420160	rt de valyan kondisi ekonomi semakin buruk rupiah melemah dollar menguat ini pertanda pemerintahan jokowi jk tidak mampu bekerja dg ba 
+4	118	646717301169876994	rt rajawalinkri hasil kerja kerja kerja jokowi bisniscom rupiah melemah perusahaan cari alternatif lindungi utang dolar 
+4	119	646955286633144320	 sebenernya niat jokowi itu baik membuat rupiah lemah impor pekerja tiongkok agar kita rajin kerja itu aja jokowiturunrupiahpulih
+4	120	646966725167058944	rt ivanpatra1 sebenernya niat jokowi itu baik membuat rupiah lemah impor pekerja tiongkok agar kita rajin kerja itu aja jokowitu 
+4	121	647074729749147651	rt si lontong krisis makin buruk akademisi dan praktisi soroti lemahnya leadership jokowi jokowigagalrupiahanjlok
+4	122	647074828931870720	rt si lontong krisis makin buruk akademisi dan praktisi soroti lemahnya leadership jokowi jokowigagalrupiahanjlok
+4	123	647454566544379904	masih ingat kata menteri pelemahan rupiah diluar efek dr fundamental klo berdasar fundamental ga seburuk ini tapi kenapa ada apa 
+4	124	647475352768393216	rt ibehnababan masih ingat kata menteri pelemahan rupiah diluar efek dr fundamental klo berdasar fundamental ga seburuk ini tapi kena 
+4	125	647635663119097856	indonesia hebat hanya ad di jaman pak jokowi kan coba lihat rupiah menguat sampai hampir 15 rbu negara 
+4	126	647650363370270720	rt ikanda dari presidennya dari pemilihan kabinet kerja kasus freeport kasus kpk vs polri kasus rupiah melemah kasus asap riau
+4	127	648317329118396416	indikasi gagalnya jokowi jk 1 buruknya perekenomian di tambah dg melemahnya rupiah thdp dollar 2 meningkatnya angka kemiskinan 
+4	128	648926844025090048	jokowi kabinetkerja kompas compdi p pelemahan rupiah bukan urusan pak jokowi k arbib
+4	129	648926847770595332	jokowi kabinetkerja kompas compdi p pelemahan rupiah bukan urusan pak jokowi k arbib
+4	130	648926855911727104	jokowi kabinetkerja kompas compdi p pelemahan rupiah bukan urusan pak jokowi k arbib
+4	131	649032847861256192	rt aryarighaa ancaman phk untuk para pekerja buruh dikarenakan nilai rupiah melemah ndi janjimu pak jokowi 
+4	132	649182868304887808	melemahnya nilai tukar rupiah akan memperburuk perekonomian bs berujung krisis kepercayaan tumbangnya pemerintahan ingat krisis 1998 
+4	133	649188561808285696	soal pelemahan rupiah lho ini bukan urusan pak jokowi pak jokowi itu urusi fiskal kalau moneter kurs itu kerjaan bi 
+4	134	650253582172844033	ide bagus tuh buat jokowi rupiah tuh kasih jimat biar kebal terhadap dollar jokowigerahahokresah 
+4	135	650254115327488000	rt ifwandi anwar ide bagus tuh buat jokowi rupiah tuh kasih jimat biar kebal terhadap dollar jokowigerahahokresah 
+4	136	650256722896941056	rt ifwandi anwar ide bagus tuh buat jokowi rupiah tuh kasih jimat biar kebal terhadap dollar jokowigerahahokresah 
+4	137	651219951093592066	rupiah menguat iya gara2 jokowi kemarin2 melemah itu gara2 amirika hebat ya jokowi hehehe tergantung media busyet 
+4	138	651224359286145024	rt kritik us rupiah menguat iya gara2 jokowi kemarin2 melemah itu gara2 amirika hebat ya jokowi hehehe tergantung media busyet 
+4	139	651225140420739073	rt kritik us rupiah menguat iya gara2 jokowi kemarin2 melemah itu gara2 amirika hebat ya jokowi hehehe tergantung media busyet 
+4	140	651234782353846272	rt kritik us rupiah menguat iya gara2 jokowi kemarin2 melemah itu gara2 amirika hebat ya jokowi hehehe tergantung media busyet 
+4	141	651235884877000704	hari ini rupiah menguat 14 204 hebat juga paket kebijakan ekonomi jokowi 
+4	142	651260177191170048	pantesan lucu hastagnya ternyata kerjaan haters yang menutup mata atas keberhasilan pak jokowi menangani lemahnya rupiah rupiahmenguat
+4	143	651261896411090944	rupiah menguat terimakasihagusmarto klu melemah cacimaki jokowi smua yg buruk kinerja jolowi dasar hater otak nanah
+4	144	651262844814540800	rt dethoto rupiah menguat terimakasihagusmarto klu melemah cacimaki jokowi smua yg buruk kinerja jolowi dasar hater otak nanah
+4	145	651263760514945025	 rupiah melemah akibat kinerja bi yg gak bener klo menguat itu krna hasil kerja jokowi heuheuehue mereka ngeklaim seenaknya sendiri
+4	146	651263924457766913	rt dethoto rupiah menguat terimakasihagusmarto klu melemah cacimaki jokowi smua yg buruk kinerja jolowi dasar hater otak nanah
+4	147	651265323383939072	rt rifai zaen pantesan lucu hastagnya ternyata kerjaan haters yang menutup mata atas keberhasilan pak jokowi menangani lemahnya rupiah 
+4	148	651273532475768832	 rian19081993h ypaonganan rupiah menguat mereka bilang hebatnya jokowi terimakasihagusmarto terimakasihagusmarto jokowijkturunlah
+4	149	651276179509374976	jokowi addict pada seneng dong karna rupiah menguat jokower pada teriak jokowi hebat gakmalu terimakasihagusmarto jokowijkmundurlah
+4	150	651278308877860864	rt am afifmaulana jokowi addict pada seneng dong karna rupiah menguat jokower pada teriak jokowi hebat gakmalu terimakasihagusmart 
+4	151	651282923627261953	rupiah melemah tanggung jawab bi rupiah menguat jokowi yg hebat dasar otak kampret
+4	152	651285564684038144	saat rupiah melemah yg disalahkan bi saat rupiah menguat di klaim kerja jokowi no comment lah 
+4	153	651286569542795266	rt am afifmaulana jokowi addict pada seneng dong karna rupiah menguat jokower pada teriak jokowi hebat gakmalu terimakasihagusmart 
+4	154	651295051767676929	rupiah menguat bkn karna hebatnya jokowi cebong malulah jokowijkmalulah
+4	155	651295691495464960	rt dhikkie rupiah menguat bkn karna hebatnya jokowi cebong malulah jokowijkmalulah
+4	156	651328239030288385	 pemburukecebong yg hater jg jgn pake standart ganda kalo kmrn nyalahin jokowi waktu rupiah lemah skrg hrs anggap ini prestasi jokowi 
+4	157	651358550510297088	rt cr atmojo rupiah melemah akibat kinerja bi yg gak bener klo menguat itu krna hasil kerja jokowi heuheuehue mereka ngeklaim seenakny 
+4	158	651373640546566144	rt ulilalbab hs hebohnet supriyanto dei kalau rupiah melemah tagarnya pasti menjelekkan jokowi pdhl ini efek mau digantinya gubernur 
+4	159	651423892767006720	rupiah melemah salah jokowi giliran menguat karena kehebatan gub bi klo sudah benci semua jd salah 
+4	160	651424618410999808	rt bakkaranauli rupiah melemah salah jokowi giliran menguat karena kehebatan gub bi klo sudah benci semua jd salah 
+4	161	651425668769574912	rt bakkaranauli rupiah melemah salah jokowi giliran menguat karena kehebatan gub bi klo sudah benci semua jd salah 
+4	162	651425846629040128	rt bakkaranauli rupiah melemah salah jokowi giliran menguat karena kehebatan gub bi klo sudah benci semua jd salah 
+4	163	651426174439022592	rt bakkaranauli rupiah melemah salah jokowi giliran menguat karena kehebatan gub bi klo sudah benci semua jd salah 
+4	164	651624410529423360	hebat rt despar54 singa com rangocok ych7168 wardahbaihaqi ngobush2 mbi lung jokowi turunkan harga bbm rupiah menguat 14 000 
+4	165	651639088991211520	rupiah melemah salah jokowi rupiah menguat berkat allah yme leosimorangkir agusmartobekerja turunkanjokowi 
+4	166	651640072542928896	rt rimma 8989 rupiah melemah salah jokowi rupiah menguat berkat allah yme leosimorangkir agusmartobekerja turunkanjokowi https 
+4	167	651641761400426496	rt rimma 8989 rupiah melemah salah jokowi rupiah menguat berkat allah yme leosimorangkir agusmartobekerja turunkanjokowi https 
+4	168	651643044731576320	rt rimma 8989 rupiah melemah salah jokowi rupiah menguat berkat allah yme leosimorangkir agusmartobekerja turunkanjokowi https 
+4	169	651666762463772672	bukan jokowi yang hebat kan vivacoid menteri darmin faktor global pengaruhi penguatan rupiah baca tuh cebong 
+4	170	651666780306472960	bukan jokowi yang hebat kan vivacoid menteri darmin faktor global pengaruhi penguatan rupiah baca tuh cebong 
+4	171	651669977628479488	menteri darmin faktor global pengaruhi penguatan rupiah indonesiahebat
+4	172	651677117772468224	 alamat p4lsu disaat rupiah melemah loe nyalahin pak jokowi gitu pas rupiah menguat loe bilang itu kerja bi licik lo njing 
+4	173	651677268616478720	 iwanfals rupiah menguat psti krn jokowi ya om kalau melemah krn faktor external itulah hebatnya rezim pencitraan jokowijkberasap
+4	174	651694980285657088	hebat jelang satu tahun jokowi jk tiba tiba rupiah menguat devisa terkuras rp 65 97 triliun uang dari mana 
+4	175	651695539881385988	rt demirakyat hebat jelang satu tahun jokowi jk tiba tiba rupiah menguat devisa terkuras rp 65 97 triliun uang dari mana 
+4	176	651734805936107520	rupiah menguat jokowi hebat kapan engkau memuji rabmu rupiah melemah bukan urusan saya wkwkwk 
+4	177	651745217872203776	 ya ampun rupiah menguat apa kerja jokowi kalopahamyabagus
+4	178	651757795587428353	rupiah menguat bukan karena jokowi kok klau melemah nah itu baru karena jokowi jokowi itu kerjanya gk pernah bener iyakan iyakan 
+4	179	651763574453329921	jokowi hebat rupiah menguat 
+4	180	651763752300249088	rt pantaubanten jokowi hebat rupiah menguat 
+4	181	651763846760173568	rt pantaubanten jokowi hebat rupiah menguat 
+4	182	651764089765498880	rt pantaubanten jokowi hebat rupiah menguat 
+4	183	651897727886884864	dunia kagum jokowi tepati janji rupiah menguat paling besar se asia hebat euy pak jokowi
+4	184	651947645875851264	ada bacaan bagus bang fadjroel rupiah menguat ekonomi mulai meroket agus martowardoyo menjegal jokowi 
+4	185	652002962923913216	pak jokowi dan pellegrini memang hebat saididu gara2 city di puncak rupiah dan saham menguat dan hujan pun turun itu saja
+4	186	652005127398686721	kalau menguat itu kehebatan jokowi kalau loyo salah bi ironinegeriini ypaonganan kenapa hari ini rupiah kembali loyoo 
+4	187	652059886180630528	 jokowitakutasap rupiah paling kuat se asia jokowi mulai menunjukan kehebatannya mari ketawa 
+4	188	652081356646645760	rt cebong2000 jokowitakutasap rupiah paling kuat se asia jokowi mulai menunjukan kehebatannya mari ketawa 
+4	189	652086087301464064	indef rupiah menguat bukan karena paket jokowi semua mata uang dunia menguat link text bagus silakan lihat 
+4	190	652099721738125312	rt cebong2000 jokowitakutasap rupiah paling kuat se asia jokowi mulai menunjukan kehebatannya mari ketawa 
+4	191	652179575804329984	 tribunnews hahahaha kalo rupiah anjlok pasti salah pak jokowi giliran menguat pasti krn faktor eksternal pengamat hebat ato oon 
+4	192	652213502845677568	rupiah menguat ekonomi mulai meroket agus martowardoyo menjegal jokowi kompasiana hebat
+4	193	652213735554027520	rupiah menguat ekonomi mulai meroket agus martowardoyo menjegal jokowi kompasiana lebih hebat dr sby
+4	194	652326960756994048	gilak rupiah menguat dan melompat lebih jauh dlm sepekan ini cepat amat wkwkwkwk jokowi hebat bos
+4	195	652327028499197952	saat rupiah melemah para jokower bilang itu tanggung jawab bi saat rupiah menguat mendekati 13 491 mereka bilang jokowi hebat hadeeeuuuuh
+4	196	652360745917640704	giliran rupiah menguat pada diem pas melemah aja pd sibuk nyalahin jokowi jokowihebatahokhebat
+4	197	652368339415662592	di tengah rupiah yg menguat penurunan harga bbm ditentang muncul desakan revisi uu kpk ga seneng bgt kayaknya kalo nama jokowi bagus 
+4	198	652390177269149696	berita rupiah menguat tdk shebat apabila rupiah keok thdp usd kmrn kenapa kurawa fadjroel jokowi basuki btp
+4	199	652505642989563904	 stnatanegara ferrykoto kalo rupiah melemah salah jokowi tp kalo menguat kerja bi dan efek luar negri pemikiran yg briliant
+4	200	652544373272408064	penguatan rupiah dinilai kabar bagus bagi industri jakarta menteri koordinator pere 
+4	201	652544375105323009	penguatan rupiah dinilai kabar bagus bagi industri jakarta menteri koordinator pere 
+4	202	652646608060989440	rupiah paling kuat se asia jokowi mulai menunjukan kehebatannya 
+4	203	652646638557597696	rupiah paling kuat se asia jokowi mulai menunjukan kehebatannya 
+4	204	652646669431910400	rupiah paling kuat se asia jokowi mulai menunjukan kehebatannya 
+4	205	652981048611991552	rupiah menguat karena kehebatan jokowi pdhl negara lain jg menguat logika opo iki hksss
+4	206	652987707740696576	rupiah menguat karena jelas ada usaha ekstra super hebat presiden jokowi 
+4	207	653098377752645632	rupiah kuat jokowi hebat rupiah lemah salah agus marto pemuja 
+4	208	653217122651209728	rupiah menguat efeknya sudah banyak negara negara melirik indonesia untuk bekerja sama jokowi hebat teruslh bawa negri ini ke level atas 
+4	209	653388224765624320	obama jokowi hebat tekuk dolar ke rp 13 297 data bloomberg mencatat rupiah dibuka menguat 292 poin ke level rp 
+4	210	653799886333214720	 gilangpracita gimana rupiah sudah menguat kan itulah hebatnya pak jokowi dia bs menahan diri utk tdk ikut currency war 
+4	211	653875506970947584	rupiah menguat bagus inflasi bisa menurun jokowi sukses bagus rakyat bakal bahagia tapi tampaknya jokowi belum sukses 
+4	212	653876524441927680	rt suryadelalu rupiah menguat bagus inflasi bisa menurun jokowi sukses bagus rakyat bakal bahagia tapi tampaknya jokowi belum sukse 
+4	213	654492313758990336	 sholehachmad36 herry bayanaka kenyem70 ndon08 restyies harryridwan ay baca nyet rupiah menguat jokowi hebat 
+4	214	654650801764208640	kemarin ada yg koment pemerintah jokowi hebat kalo bisa buat rupiah spt zaman sby nah pas ditanya balik brp 

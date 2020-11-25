@@ -1,0 +1,13 @@
+Edit Distance
+bukunya bahasan 6
+dukungannya dikonsumsi 8
+pertama pratama 2
+apartemen apartemennya 3
+sutradara saudaranya 6
+---------------------------------
+Unigram Overlap
+bukunya bahasan 2
+dukungannya dikonsumsi 3
+pertama pratama 6
+apartemen apartemennya 9
+sutradara saudaranya 6

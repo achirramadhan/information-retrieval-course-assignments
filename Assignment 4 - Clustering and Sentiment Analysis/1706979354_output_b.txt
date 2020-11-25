@@ -1,0 +1,5 @@
+no_cluster	jumlah_tweet_positif	jumlah_tweet_negatif	jumlah_tweet_netral
+1	5	15	202
+2	25	0	0
+3	13	65	73
+4	102	46	66
